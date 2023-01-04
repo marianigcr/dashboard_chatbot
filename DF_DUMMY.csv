@@ -1,4 +1,4 @@
-﻿id,date,municipality,cp,gender,age,open_answer_1,open_answer_2,title,Type of facility ,confidence,category
+﻿id,date,municipality,cp,gender,age,open_answer_1,open_answer_2,title,facility ,confidence,category
 23200001,44641,Milpa Alta,12600,Diverso,25-29,Government should setup a clinic ,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",Lady Health Visitor,Private facility,0.601297325,TRANSPORTESEGURO
 23200002,44740,Milpa Alta,12000,Prefiere no contestar,20-24,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",,,0.059648488,ESCUELAS DE TIEMPO COMPLETO
 23200003,44862,Tlalpan,14388,Diverso,55-59,"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.","Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",,,0.702986879,CONECTIVIDADINTERNET
